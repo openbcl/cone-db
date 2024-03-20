@@ -8,7 +8,7 @@ The material parameters that are given are:
 - Application (for example: paneling, flooring)
 
 ## Overview Dataframe
-[Overview Dataframe](cone-db/ConeData/combined_overview_official.csv)
+[Overview Dataframe](ConeData/combined_overview_official.csv)
 
 For each Cone Calorimeter experiment the following information is given in the overview csv-file:
 
