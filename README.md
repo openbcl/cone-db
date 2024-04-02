@@ -31,3 +31,5 @@ For each Cone Calorimeter experiment time dependent values are given for:
 - MLR
 - CO Yield
 - CO2 Yield
+
+In some cases instead of the CO and CO2 Yield the Mass Fraction of CO and CO2 in the smoke gases. The unit specified in those cases is ppm or percent and is given in the column header.
